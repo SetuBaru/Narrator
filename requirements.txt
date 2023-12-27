@@ -1,0 +1,7 @@
+pip~=23.3.2
+lxml~=4.9.4
+six~=1.16.0
+EbookLib~=0.18
+setuptools~=65.5.0
+pyttsx3~=2.90
+pypdf2~=3.0.1
